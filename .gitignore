@@ -1,0 +1,83 @@
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+.vs/
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Auto-generated files
+*.vspscc
+*.vssscc
+
+# Logs
+*.log
+
+# Application Insights
+ApplicationInsights.config
+ApplicationInsights.config.install.xdt
+
+# Entity Framework
+*.edmx.sql
+*.sql
+*.ldf
+*.mdf
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Visual Studio Code files
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Razor Temporary Files
+**/project.razor.bin/
+**/project.razor.json/
+**/project.razor.css/
+
+# Publish output
+*.Publish.xml
+*.pubxml
+*.rsp
+
+# Packaging files
+*.nupkg
+*.snupkg
+
+# Local NuGet packages
+*.nuget/packages/
+.nuget/
+
+# WebAPI specific
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Backup & resharper files
+*.bak
+_ReSharper.Caches/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcut files
+*.lnk
